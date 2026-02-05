@@ -11,3 +11,4 @@ Mục tiêu của đồ án:
   + Sử dụng ngôn ngữ đặc tả Alloy và công cụ Alloy Analyzer để xây dựng mô hình hình thức, kiểm chứng các thuộc tính an toàn, phát hiện lỗi logic thông qua các phản ví dụ (counter-example) và đánh giá hiệu quả của phương pháp hình thức trong giai đoạn thiết kế phần mềm.
 
 Dự án bao gồm mã nguồn Alloy, hình ảnh minh họa kết quả thực nghiệm và tài liệu báo cáo phục vụ cho việc học tập và nghiên cứu.
+Link đồ án: https://docs.google.com/document/d/1m-puEoMRUUTxINXvCbPFhUwqOPVelIkcGNB7BUlJNn8/edit?usp=sharing 
